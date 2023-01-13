@@ -9,6 +9,4 @@ public class Cat extends Animal {
         return "Im a Cat";
     }
 
-    //proveriau
-    //au
 }
